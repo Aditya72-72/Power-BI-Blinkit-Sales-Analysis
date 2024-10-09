@@ -28,7 +28,8 @@ This project focuses on the **Sales Analysis of Blinkit**, a leading online groc
 4. **Geographical Performance**: Revenue comparison between different cities and regions.
 5. **Product Category Analysis**: Identified top-performing categories in terms of sales volume and revenue.
 
-<img src="https://drive.google.com/file/d/1j31u3Z9dY8yGWc57z5O-TmEkqZWMT6UK/view?usp=sharing">
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1j31u3Z9dY8yGWc57z5O-TmEkqZWMT6UK)
+
 
 ## How to Use the Project
 1. Download the `.pbix` file from this repository.
